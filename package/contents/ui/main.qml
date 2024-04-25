@@ -5,6 +5,8 @@ import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.plasmoid 2.0
 
 RowLayout {
+    Plasmoid.preferredRepresentation: Plasmoid.fullRepresentation
+
     function exec() {
         var cmd = query.text;
         if (cmd != "") {
@@ -35,5 +37,4 @@ RowLayout {
             exec();
         }
     }
-
 }

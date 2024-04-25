@@ -6,12 +6,12 @@
                 "Name": "WitheringAway"
             }
         ],
-        "Category": "System Information",
+        "Category": "Utilities",
         "Description": "Plasmoid to quickly run commands.",
         "Icon": "terminal",
         "Id": "com.github.notwithering.oneliner",
-        "Name": "KRunner",
-        "Version": "1",
+        "Name": "OneLiner",
+        "Version": "2",
         "Website": "https://github.com/notwithering/plasmoid-oneliner"
     },
     "X-Plasma-API": "declarativeappletscript",
