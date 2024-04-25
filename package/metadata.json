@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "notwithering@github.com",
+                "Name": "WitheringAway"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Plasmoid to quickly run commands.",
+        "Icon": "terminal",
+        "Id": "com.github.notwithering.oneliner",
+        "Name": "KRunner",
+        "Version": "1",
+        "Website": "https://github.com/notwithering/plasmoid-oneliner"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
