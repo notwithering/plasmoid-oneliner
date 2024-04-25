@@ -11,7 +11,7 @@
         "Icon": "terminal",
         "Id": "com.github.notwithering.oneliner",
         "Name": "OneLiner",
-        "Version": "2",
+        "Version": "1",
         "Website": "https://github.com/notwithering/plasmoid-oneliner"
     },
     "X-Plasma-API": "declarativeappletscript",
